@@ -1,6 +1,9 @@
 {
   "name": "chla-chla-carpooling",
   "version": "1.0.0",
+  "engines": {
+    "node": "^18.0.0"
+  },
   "description": "Enhanced carpooling platform - better than BlaBlaCar with advanced security and tracking features",
   "main": "index.js",
   "scripts": {
